@@ -338,6 +338,16 @@ Scheme
 				"antialias" 								"1"
 			}
 		}
+		"ConsoleText"
+		{
+			"1"
+			{
+				"name"		"Terminus"
+				"tall"		"15"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
 
 		"Default" [$OSX]
 		{
@@ -448,6 +458,11 @@ Scheme
 			{
 				"range" "0x0000 0xFFFF"
 			}
+		}
+		"15"
+		{
+			"font"	"resource/scheme/fonts/terminus.fon"
+			"name"	"terminus"
 		}
 	}
 }
