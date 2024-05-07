@@ -462,7 +462,8 @@ Scheme
 		"15"
 		{
 			"font"	"resource/scheme/fonts/terminus.fon"
-			"name"	"terminus"
+			"name"	"Terminus"
+			"japanese" { "range" "0x0000 0xFFFF" }
 		}
 	}
 }

@@ -3,10 +3,10 @@
 	//====================================================================================================================================================
 	// MAIN MENU BUTTONS
 	//====================================================================================================================================================
-	"Version"
+	"Version" // rip my idea of typing it in japanese... ミヤコちゃん、だいすき！！！
 	{
 		"label"										"miyakolove"
-		"command"									"engine con_enable 1; toggleconsole; clear; echo simple edit by techno; echo miyako-chan, daisuki!!!"
+		"command"									"engine con_enable 1; toggleconsole; clear; play ui/pyon.mp3; echo simple edit by techno; echo miyako-chan, daisuki!!!"
 		"OnlyAtMenu"								"1"
 	}
 	"Servers"
