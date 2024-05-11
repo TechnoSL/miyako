@@ -1,41 +1,5 @@
 "Resource/UI/TargetID.res"
 {
-	"TargetIDBG_Spec_Blue"
-	{
-		"ControlName"								"ScalableImagePanel"
-		"fieldName"									"TargetIDBG_Spec_Blue"
-		"xpos"										"0"
-		"ypos"										"-22"
-		"zpos"										"-1"
-		"wide"										"252"
-		"tall"										"30"
-		"visible"									"0"
-		"enabled"									"1"
-
-		"image"										"../hud/color_panel_blu"
-		"src_corner_height"							"15"
-		"src_corner_width"							"15"
-		"draw_corner_width"							"0"
-		"draw_corner_height"						"0"
-	}
-	"TargetIDBG_Spec_Red"
-	{
-		"ControlName"								"ScalableImagePanel"
-		"fieldName"									"TargetIDBG_Spec_Red"
-		"xpos"										"0"
-		"ypos"										"-22"
-		"zpos"										"-1"
-		"wide"										"252"
-		"tall"										"30"
-		"visible"									"0"
-		"enabled"									"1"
-
-		"image"										"../hud/color_panel_red"
-		"src_corner_height"							"15"
-		"src_corner_width"							"15"
-		"draw_corner_width"							"0"
-		"draw_corner_height"						"0"
-	}
 	"TargetBGshade"
 	{
 		"ControlName"								"ImagePanel"
@@ -43,7 +7,7 @@
 		"xpos"										"0"
 		"ypos"										"11"
 		"zpos"										"-1"
-		"wide"										"252"
+		"wide"										"0"
 		"tall"										"12"
 		"visible"									"1"
 		"enabled"									"1"
