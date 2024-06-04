@@ -1,4 +1,13 @@
 //===========================================================================================================================
+event ScopeRemoval
+{
+	Animate HudScope Position	   "1997 9397" Linear 0.0 0.0
+}
+
+event DamagedPlayer // maybe not.
+{
+	RunEvent ScopeRemoval				0.0
+}
 
 event HudHealthBonusPulse
 {

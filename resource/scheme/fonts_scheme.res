@@ -11,7 +11,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -20,7 +20,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"antialias"									"1"
 			}
@@ -29,7 +29,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -38,7 +38,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -48,7 +48,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"12"
 				"antialias"									"1"
 			}
@@ -57,7 +57,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"12"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -67,7 +67,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"antialias"									"1"
 			}
@@ -76,7 +76,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"16"
 				"antialias"									"1"
 			}
@@ -85,7 +85,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"16"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -95,7 +95,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -104,7 +104,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -114,7 +114,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"antialias"									"1"
 				"outline"									"1"
@@ -134,7 +134,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"20"
 				"antialias"									"1"
 			}
@@ -143,7 +143,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"antialias"									"1"
 			}
@@ -152,7 +152,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -162,7 +162,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"outline"									"1"
@@ -182,7 +182,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"26"
 				"antialias"									"1"
 			}
@@ -191,7 +191,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"30"
 				"antialias"									"1"
 			}
@@ -200,7 +200,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"36"
 				"antialias"									"1"
 			}
@@ -209,7 +209,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"48"
 				"antialias"									"1"
 			}
@@ -218,56 +218,56 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"72"
 				"yres"										"400 500"
 				"antialias"									"1"
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"88"
 				"yres"										"501 600"
 				"antialias"									"1"
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"95"
 				"yres"										"601 679"
 				"antialias"									"1"
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"103"
 				"yres"										"680 720"
 				"antialias"									"1"
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"110"
 				"yres"										"721 799"
 				"antialias"									"1"
 			}
 			"6"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"117"
 				"yres"										"800 899"
 				"antialias"									"1"
 			}
 			"7"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"123"
 				"yres"										"900 1030"
 				"antialias"									"1"
 			}
 			"8"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"130"
 				"yres"										"1031 1199"
 				"antialias"									"1"
@@ -365,7 +365,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"range"										"0x0000 0x017F"
 				"yres"										"480 599"
@@ -373,7 +373,7 @@
 			}
 			"2"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"range"										"0x0000 0x017F"
 				"yres"										"600 767"
@@ -381,7 +381,7 @@
 			}
 			"3"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"22"
 				"range"										"0x0000 0x017F"
 				"yres"										"768 1023"
@@ -389,7 +389,7 @@
 			}
 			"4"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 				"yres"										"1024 1199"
@@ -397,7 +397,7 @@
 			}
 			"5"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"32"
 				"range"										"0x0000 0x017F"
 				"yres"										"1200 6000"
@@ -708,7 +708,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"44"
 				"weight"									"500"
 				"additive"									"0"
@@ -719,7 +719,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"35"
 				"weight"									"500"
 				"additive"									"0"
@@ -752,7 +752,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"30"
 				"weight"									"500"
 				"additive"									"0"
@@ -774,7 +774,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -785,7 +785,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -796,7 +796,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -818,7 +818,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -829,7 +829,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -840,7 +840,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -851,7 +851,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -862,7 +862,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -874,7 +874,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -885,7 +885,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -897,7 +897,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -908,7 +908,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"4"
 				"weight"									"500"
 				"additive"									"0"
@@ -919,7 +919,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"weight"									"500"
 				"additive"									"0"
@@ -930,7 +930,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"16"
 				"weight"									"500"
 				"additive"									"0"
@@ -941,7 +941,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -952,7 +952,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"9"
 				"weight"									"0"
 				"additive"									"0"
@@ -963,7 +963,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"6"
 				"weight"									"0"
 				"additive"									"0"
@@ -974,7 +974,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"12"
 				"weight"									"400"
 				"additive"									"0"
@@ -985,7 +985,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -1056,7 +1056,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -1236,7 +1236,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -1246,7 +1246,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"italic"									"1"
 				"antialias"									"1"
@@ -1257,7 +1257,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -1267,7 +1267,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"italic"									"1"
 				"range"										"0x0000 0x017F"
@@ -1278,7 +1278,7 @@
 		{
 			"1"
 			{
-				"name"										"Surface-Medium"
+				"name"										"Raleway Medium"
 				"tall"										"16"
 				"range"										"0x0000 0x017F"
 				"antialias"									"1"
@@ -1320,7 +1320,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"antialias"									"1"
 				"weight"									"500"
@@ -1351,7 +1351,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"28"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1362,7 +1362,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"40"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1373,7 +1373,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"antialias"									"1"
 				"custom"									"1"		[$OSX]
@@ -1384,7 +1384,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"	[!$OSX]
 				"tall"										"15"	[$OSX]
 				"antialias"									"1"
@@ -1418,7 +1418,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1441,7 +1441,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1453,7 +1453,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1465,7 +1465,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1477,7 +1477,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1489,7 +1489,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"34"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -1572,7 +1572,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -1583,7 +1583,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"20"
 				"weight"									"400"
 				"additive"									"0"
@@ -1594,7 +1594,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -1605,7 +1605,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1616,7 +1616,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"7"
 				"weight"									"400"
 				"additive"									"0"
@@ -1627,7 +1627,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -1847,7 +1847,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"36"
 				"weight"									"500"
 			}
@@ -1856,7 +1856,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"30"
 				"weight"									"500"
 			}
@@ -1865,7 +1865,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"28"
 				"weight"									"500"
 			}
@@ -1892,7 +1892,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"22"
 				"weight"									"500"
 			}
@@ -1901,7 +1901,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"weight"									"500"
 			}
@@ -1937,7 +1937,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"36"
 				"weight"									"500"
 				"additive"									"0"
@@ -1948,7 +1948,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"weight"									"600"
 				"additive"									"0"
@@ -1959,7 +1959,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"weight"									"400"
 				"additive"									"0"
@@ -2043,7 +2043,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"8"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2053,7 +2053,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2063,7 +2063,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"13"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2073,7 +2073,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"16"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2083,7 +2083,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"9"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2093,7 +2093,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"9"
 				"antialias"									"1"
 			}
@@ -2102,7 +2102,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2112,7 +2112,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"13"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2122,7 +2122,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"15"
 				"additive"									"0"
 				"antialias"									"1"
@@ -2132,7 +2132,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"9"
 				"weight"									"500"
 				"additive"									"0"
@@ -2143,7 +2143,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"9"
 				"weight"									"500"
 				"blur"										"3"
@@ -2287,7 +2287,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"20"
 				"antialias"									"1"
 				"custom"									"1"	[$OSX]
@@ -2298,7 +2298,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2307,7 +2307,7 @@
 			}
 			"2"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2316,7 +2316,7 @@
 			}
 			"3"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"22"
 				"weight"									"400"
 				"additive"									"0"
@@ -2328,7 +2328,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"yres"										"480 599"
@@ -2338,7 +2338,7 @@
 			}
 			"2"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"400"
 				"additive"									"0"
@@ -2348,7 +2348,7 @@
 			}
 			"3"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"22"
 				"weight"									"400"
 				"additive"									"0"
@@ -2361,7 +2361,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"weight"									"800"
 				"yres"										"480 599"
@@ -2370,7 +2370,7 @@
 			}
 			"2"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"800"
 				"additive"									"0"
@@ -2379,7 +2379,7 @@
 			}
 			"3"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"weight"									"800"
 				"additive"									"0"
@@ -2391,7 +2391,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"13"
 				"weight"									"400"
 				"additive"									"0"
@@ -2402,7 +2402,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"16"
 				"weight"									"400"
 				"additive"									"0"
@@ -2413,7 +2413,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"10"
 				"weight"									"400"
 				"additive"									"0"
@@ -2514,7 +2514,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2578,7 +2578,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"additive"									"0"
@@ -2589,7 +2589,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2611,7 +2611,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -2622,7 +2622,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"weight"									"500"
 				"additive"									"0"
@@ -2633,7 +2633,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"14"
 				"weight"									"500"
 				"additive"									"0"
@@ -2644,7 +2644,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"24"
 				"weight"									"500"
 				"additive"									"0"
@@ -2655,7 +2655,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"15"
 				"weight"									"500"
 				"range"										"0x0000 0x007F"
@@ -2667,7 +2667,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"9"
 				"weight"									"400"
 				"additive"									"0"
@@ -2678,7 +2678,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"antialias"									"1"
@@ -2688,7 +2688,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"weight"									"500"
 				"blur"										"3"
@@ -2700,7 +2700,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"12"
 				"weight"									"500"
 				"additive"									"0"
@@ -2773,7 +2773,7 @@
 		{
 			"1"
 			{
-				"name"										"ShinMGoUpr-DeBold"
+				"name"										"Raleway Medium"
 				"tall"										"20"
 				"weight"									"500"
 				"additive"									"0"
@@ -2802,7 +2802,7 @@
 		"4"
 		{
 			"font"		"resource/TF2Secondary.ttf"
-			"name"		"ShinMGoUpr-DeBold"
+			"name"		"Raleway Medium"
 
 			"russian"
 			{
@@ -2910,7 +2910,7 @@
 		"8"
 		{
 			"font"		"resource/scheme/fonts/surface_medium.otf"
-			"name"		"Surface-Medium"
+			"name"		"Raleway Medium"
 		}
 		"9"
 		{
@@ -2939,8 +2939,8 @@
 		}
 		"14"
 		{
-			"font"		"resource/scheme/fonts/shinbold.otf"
-			"name"		"ShinMGoUpr-DeBold"
+			"font"		"resource/scheme/fonts/raleway-medium.ttf"
+			"name"		"Raleway Medium"			
 		}
 	}
 }
