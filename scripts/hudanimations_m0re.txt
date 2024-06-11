@@ -4,7 +4,7 @@ event ScopeRemoval
 	Animate HudScope Position	   "1997 9397" Linear 0.0 0.0
 }
 
-event DamagedPlayer // maybe not.
+event DamagedPlayer add // behind runevent to disable scope remover
 {
 	RunEvent ScopeRemoval				0.0
 }
@@ -16,7 +16,7 @@ event HudHealthBonusPulse
 
 	Animate	PlayerStatusHealthBonusBG				Alpha		"255"								Linear	0.0		0.0
 
-	Animate HealthValue_Shadow						FgColor		"Health Buff"						Linear	0.0		0.0
+	Animate HealthValue_Shadow						FgColor		"Black"								Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"255"								Linear	0.0		0.0
 
 	Animate HealthValue_Target						FgColor		"Health Buff Target"				Linear	0.0		0.0

@@ -9,10 +9,10 @@
 		"LabelTransparent"									"0 0 0 130"
 		"Health Numbers"									"198 226 253 255"
 
-		"Health Buff"										"254 202 215 255"
-		"Health Buff Target"								"254 202 215 255"
-		"Health Buff Spec"									"254 202 215 255"
-		"Health Buff Killer"								"254 202 215 255"
+		"Health Buff"										"198 226 253 255" //def: 254 202 215 255
+		"Health Buff Target"								"198 226 253 255"
+		"Health Buff Spec"									"198 226 253 255"
+		"Health Buff Killer"								"198 226 253 255"
 
 		"Health Hurt"										"204 76 87 255"
 		"Health Hurt Target"								"255 255 255 255"
