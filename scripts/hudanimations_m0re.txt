@@ -4,9 +4,9 @@ event ScopeRemoval
 	Animate HudScope Position	   "1997 9397" Linear 0.0 0.0
 }
 
-event DamagedPlayer add // behind runevent to disable scope remover
+event DamagedPlayer  // add/remove 2 slashes behind runevent to disable/enable scope remover
 {
-	RunEvent ScopeRemoval				0.0
+//	RunEvent ScopeRemoval				0.0
 }
 
 event HudHealthBonusPulse
