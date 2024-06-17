@@ -284,7 +284,7 @@
 		{
 			"1"
 			{
-				"name"										"Coolvetica"
+				"name"										"Raleway Medium"
 				"tall"										"11"
 				"antialias"									"1"
 			}
@@ -293,7 +293,7 @@
 		{
 			"1"
 			{
-				"name"										"Coolvetica"
+				"name"										"Raleway Medium"
 				"tall"										"13"
 				"antialias"									"1"
 			}
@@ -302,7 +302,7 @@
 		{
 			"1"
 			{
-				"name"										"Coolvetica"
+				"name"										"Raleway Medium"
 				"tall"										"15"
 				"antialias"									"1"
 			}
@@ -311,7 +311,7 @@
 		{
 			"1"
 			{
-				"name"										"Coolvetica"
+				"name"										"Raleway Medium"
 				"tall"										"15"
 				"antialias"									"1"
 				"dropshadow"								"1"
@@ -321,7 +321,7 @@
 		{
 			"1"
 			{
-				"name"										"Verdana"
+				"name"										"Raleway Medium"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -2924,20 +2924,15 @@
 		}
 		"11"
 		{
-			"font"		"resource/scheme/fonts/coolvetica.ttf"
-			"name"		"Coolvetica"
-		}
-		"12"
-		{
 			"font"		"resource/scheme/fonts/blocks.ttf"
 			"name"		"Blocks"
 		}
-		"13"
+		"12"
 		{
 			"font"		"resource/scheme/fonts/m0rehud icons.ttf"
 			"name"		"m0rehud Icons V11"
 		}
-		"14"
+		"13"
 		{
 			"font"		"resource/scheme/fonts/raleway-medium.ttf"
 			"name"		"Raleway Medium"			
