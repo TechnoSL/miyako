@@ -6,6 +6,8 @@ simple m0re edit i made in 1 day
 
 lf miyako cosplayer gf PLEASE hml
 
-thx weareallimaginary for the bunny vtf speedometer
+thx weareallimaginary for the bunny vtf speedometer + speedometer tools
 
-![](https://i.imgur.com/BtB2JwN.gif)
+thx cowshit for font
+
+![miyako nation](https://i.imgur.com/BtB2JwN.gif)
