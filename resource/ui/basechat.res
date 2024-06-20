@@ -11,6 +11,10 @@
 		"wide"										"260"
 		"tall"										"120"
 		"PaintBackgroundType"						"2"
+		//"Texture1"        							"vgui/blank" // i cba to fix this right now
+		//"Texture2"        							"vgui/blank"
+		//"Texture3"        							"vgui/blank"
+		//"Texture4"        							"vgui/blank"
 	}
 	"ChatInputLine"
 	{
@@ -32,7 +36,7 @@
 		"ypos"										"0"
 		"wide"										"30"
 		"tall"										"5"
-		"visible"									"1"
+		"visible"									"0"
 		"enabled"									"1"
 		"labelText"									"#chat_filterbutton"
 		"textAlignment"								"center"
