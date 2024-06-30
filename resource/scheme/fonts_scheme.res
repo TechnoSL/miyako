@@ -330,7 +330,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons V11"
+				"name"										"m0rehud Icons V12"
 				"tall"										"16"
 				"antialias"									"1"
 			}
@@ -339,7 +339,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons V11"
+				"name"										"m0rehud Icons V12"
 				"tall"										"18"
 				"antialias"									"1"
 			}
@@ -348,7 +348,7 @@
 		{
 			"1"
 			{
-				"name"										"m0rehud Icons V11"
+				"name"										"m0rehud Icons V12"
 				"tall"										"20"
 				"antialias"									"1"
 			}
@@ -2930,7 +2930,7 @@
 		"12"
 		{
 			"font"		"resource/scheme/fonts/m0rehud icons.ttf"
-			"name"		"m0rehud Icons V11"
+			"name"		"m0rehud Icons V12"
 		}
 		"13"
 		{

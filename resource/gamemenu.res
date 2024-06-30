@@ -49,6 +49,11 @@
 		"label"										"Friends"
 		"command"									"engine cl_mainmenu_safemode 1"
 	}
+	"Quickplay"
+	{
+		"label"										"n"
+		"command"									"engine replay_reloadbrowser"
+	}
 	"Contracker"
 	{
 		"label"										"Contracker"
